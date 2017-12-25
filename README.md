@@ -1,5 +1,7 @@
 # helloworld-scala
+## On MAC
 ```
+$ brew install sbt
 $ sbt new sbt/scala-seed.g8
 ....
 Minimum Scala build.
