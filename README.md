@@ -17,5 +17,5 @@ $ sbt
 ...
 [info] Compiling 1 Scala source to /xxx/helloworld/target/scala-2.12/classes...
 [info] Running example.Helloworld
-hello
+helloworld
 ```
